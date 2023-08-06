@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate Full Stack Developer from El Salvador!</h3>
 
-- 🔭 I’m currently working on my application for job seekers using Talwind CSS, React js, TypeScript, and Firebase. Feel free to check it out!
+- 🔭 I’m currently working on a full stack web application for job seekers levaraging Talwind CSS, React js, TypeScript, and Firebase. Feel free to check it out!
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
