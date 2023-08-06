@@ -11,7 +11,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-dardon-30b850195/)
-[![image](https://img.shields.io/badge/Outlook-0B69C7?style=for-the-badge&logo=outlook&logoColor=white)](mailto:alejandro_dardon@hotmail.com)
+[![image](https://img.shields.io/badge/Email-0B69C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro_dardon@hotmail.com)
   
 </div>
 
